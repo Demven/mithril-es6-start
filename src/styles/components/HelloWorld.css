@@ -1,0 +1,19 @@
+.HelloWorld {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+.HelloWorld__title {
+    font-size: 5em;
+    margin: 0;
+}
+
+.HelloWorld__subtitle {
+    font-size: 2.6em;
+    margin: 0.5em;
+}
