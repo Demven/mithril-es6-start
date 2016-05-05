@@ -2,6 +2,9 @@
 
 Use this application as a boilerplate for your own mithril.js SPA application with ES6 and routing.
 
+You can use more complex production-ready isomorphic mithril-app from here
+https://github.com/Demven/mithril-isomorph-start
+
 <img src="https://hsto.org/files/862/67c/a0d/86267ca0d43d4356aec0b4f4ffcbcc82.png"/>
 
 <h2>Install</h2>
